@@ -5,6 +5,8 @@ This sectorfiles is intended to be used in aviation simulation operation under T
 
 Request to support Operation Type M & X, should be addressed to IVAO Indonesia.
 
+For any procedural discrepancies, please refer to IVAO Indonesia Divisional procedure found here : https://id.ivao.aero/page/division-procedures
+
 
 THIS SECTORFILES IS ONLY TO BE USED IN IVAO ATC SIMULATION. 
 
