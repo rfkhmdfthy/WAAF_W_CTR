@@ -2,6 +2,9 @@
 /include/waaf
 /include/wiif
 /include/waaf_bali
+/include/WBFC
+/include/WMFC
+/include/VTBB
 /*.xls
 /*.xlsx
 
