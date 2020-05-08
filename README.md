@@ -1,5 +1,5 @@
 # WAAF_USBY
-Upper Surabaya Sector for IVAO Aurora ATC Client
+Upper Surabaya Sector for IVAO Aurora ATC Client.
 
 This sectorfiles is intended to be used in aviation simulation operation under Type S,N,G within IVAO Network. All data are taken from latest Indonesia AIP.
 
