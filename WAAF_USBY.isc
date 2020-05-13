@@ -8,6 +8,16 @@ WAAF_USBY;WAAF_USBY\wara;WAAF_USBY\warr
 
 //Sector File created by Yusuf Budi - 329709
 
+[DEFINE]
+SUKET;#55aa00;
+ASPAL;#969696;
+BETON;#d4d4a2;
+PARKIR;#ffff00;
+PINGGIR;#ffff00;
+BATES;#f5f5f5;
+GENTENG;#ffaa7f;
+RUNWAY;#505050;
+
 [Airport]
 F;WAAF_USBY.apt
 
