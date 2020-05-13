@@ -17,7 +17,9 @@ INSTALLATION :
 - Refer to Aurora Manual to use the program.
 
 
-For any inquiry or update request, please send an email to yusufbudiperdana(at)gmail(dot)com, and attach valid AIP document related to the update. No update will be made without valid AIP Data.
+For any inquiry or update request, please send an email to yusufbudiperdana(at)gmail(dot)com, and attach valid AIP document related to the update. 
+
+No update will be made without valid AIP Data.
 
 
 
@@ -30,6 +32,10 @@ Changelog:
 - Added WARA Gates
 - WARR MRVA lines resolved
 - Added WARR RWY 10 Vectoring Line
+
+05/13/20 : Update 1.10
+- New Tracing Method
+- Polycolor Impementation on Aerodrome Layout (WARR)
 
 
 
