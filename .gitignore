@@ -6,6 +6,8 @@
 /include/WBFC
 /include/WMFC
 /include/VTBB
+/include/ES
+/ES*.*
 /*.xls
 /*.xlsx
 

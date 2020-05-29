@@ -35,7 +35,12 @@ Changelog:
 
 05/13/20 : Update 1.10
 - New Tracing Method
-- Polycolor Impementation on Aerodrome Layout (WARR)
+- Polycolor Implementation on Aerodrome Layout (WARR)
+
+05/29/20 : Update 1.20
+- Update for Aurora ver. 1.1.74b.
+- Adding WARR Holdings & IAPs
+- Adding WARA ILS35
 
 
 
