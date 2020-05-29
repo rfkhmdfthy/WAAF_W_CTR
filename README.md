@@ -24,6 +24,7 @@ No update will be made without valid AIP Data.
 
 
 Changelog:
+<br>
 04/26/20 : Initial Upload
 - Airport Included : WARR, WARA, WART
 - SID/STAR Procedures : Updated as April 20
@@ -34,7 +35,7 @@ Changelog:
 - Added WARR RWY 10 Vectoring Line
 
 05/13/20 : Update 1.10
-- New Tracing Method
+- New Tracing Method on WARR
 - Polycolor Implementation on Aerodrome Layout (WARR)
 
 05/29/20 : Update 1.20
