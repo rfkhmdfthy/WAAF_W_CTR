@@ -1,10 +1,11 @@
-/*.isc
+/singapore_wsjc.*
+/waaf.isc
+/wiif.isc
 /include/waaf
 /include/wiif
+/include/wsjc
 /*.xls
 /*.xlsx
 /fix
-a/waaf_bali.isc
-a/waaf_usby.isc
 a/include/waaf_usby
 a/include/waaf_bali

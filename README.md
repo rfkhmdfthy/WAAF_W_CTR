@@ -6,7 +6,7 @@ This sectorfiles is intended to be used in aviation simulation operation under T
 Request to support Operation Type M & X, should be addressed to IVAO Indonesia.
 
 
-Due to area clustering, this sectorfile only provide data for following areas only :
+Due to area clustering, this sectorfile only provide data for following positions only :
 
 Enroute Controller :
 - Upper Surabaya
