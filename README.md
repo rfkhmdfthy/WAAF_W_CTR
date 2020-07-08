@@ -41,23 +41,31 @@ No update will be made without valid AIP Data.
 
 Changelog:
 <br>
-04/26/20 : Initial Upload
-- Airport Included : WARR, WARA, WART
-- SID/STAR Procedures : Updated as April 20
+07/08/2020 : Update 2.0
+- Upper Bali Area integration
+- Additional Airport : WADD, WADL, WAAA, WATT
+
+
+05/29/20 : Update 1.20
+- Update for Aurora ver. 1.1.74b.
+- Adding WARR Holdings & IAPs
+- Adding WARA ILS35
+
+05/13/20 : Update 1.10
+- New Tracing Method on WARR
+- Polycolor Implementation on Aerodrome Layout (WARR)
 
 04/29/20 : Update 1.00
 - Added WARA Gates
 - WARR MRVA lines resolved
 - Added WARR RWY 10 Vectoring Line
 
-05/13/20 : Update 1.10
-- New Tracing Method on WARR
-- Polycolor Implementation on Aerodrome Layout (WARR)
+04/26/20 : Initial Upload
+- Airport Included : WARR, WARA, WART
+- SID/STAR Procedures : Updated as April 20
 
-05/29/20 : Update 1.20
-- Update for Aurora ver. 1.1.74b.
-- Adding WARR Holdings & IAPs
-- Adding WARA ILS35
+
+
 
 
 
