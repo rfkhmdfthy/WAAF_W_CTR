@@ -1,4 +1,4 @@
-# WAAF_BALI
+# WAAF_W_CTR
 Sectorfile (Cluster) for IVAO Aurora ATC Client.
 
 This sectorfiles is intended to be used in aviation simulation operation under Type S,N,G within IVAO Network. All data are taken from latest Indonesia AIP.
@@ -9,6 +9,7 @@ Request to support Operation Type M & X, should be addressed to IVAO Indonesia.
 Due to area clustering, this sectorfile only provide data for following positions only :
 
 Enroute Controller :
+- Ujung Pandang West
 - Upper Surabaya
 - Upper Bali
 - Upper Makassar
