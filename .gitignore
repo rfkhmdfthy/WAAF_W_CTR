@@ -1,8 +1,8 @@
 /*.isc
-/include/waaf
-/include/wiif
-/include/wsjc
-/include/waaf_usby
+/include/WAAF
+/include/WIIF
+/include/WSJC
+/include/WAAF_USBY
 /*.xls
 /*.xlsx
 /fix
