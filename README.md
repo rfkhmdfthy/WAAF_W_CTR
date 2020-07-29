@@ -1,12 +1,11 @@
 # WAAF_W_CTR
-Sectorfile (Cluster) for IVAO Aurora ATC Client.
+Ujung Pandang West Sector for IVAO Aurora ATC Client.
 
 This sectorfiles is intended to be used in aviation simulation operation under Type S,N,G within IVAO Network. All data are taken from latest Indonesia AIP.
 
 Request to support Operation Type M & X, should be addressed to IVAO Indonesia.
 
-
-Due to area clustering, this sectorfile only provide data for following positions only :
+Due to area clustering scheme, this sectorfile only provide data for following positions only :
 
 Enroute Controller :
 - Ujung Pandang West
@@ -22,10 +21,13 @@ TMA & Aerodrome :
 - WADL
 - WATT
 
+Radar Display Optimized to 1366 x 768 pixel screen resolution.
+
 For any procedural discrepancies, please refer to IVAO Indonesia Divisional procedure found here : https://id.ivao.aero/page/division-procedures
 
 
-THIS SECTORFILES IS ONLY TO BE USED IN IVAO ATC SIMULATION. 
+
+THIS SECTORFILES CAN ONLY TO BE USED IN IVAO ATC SIMULATION.
 
 
 INSTALLATION :
@@ -42,6 +44,11 @@ No update will be made without valid AIP Data.
 
 Changelog:
 <br>
+07/29/2020 : Update 2.10
+- WATT Geolines & TFL update
+- High Airways update
+
+
 07/08/2020 : Update 2.0
 - Upper Bali Area integration
 - Additional Airport : WADD, WADL, WAAA, WATT
@@ -64,6 +71,9 @@ Changelog:
 04/26/20 : Initial Upload
 - Airport Included : WARR, WARA, WART
 - SID/STAR Procedures : Updated as April 20
+
+Known Issue :
+- H & L Airways mixed up due to data extraction from IAB.
 
 
 
