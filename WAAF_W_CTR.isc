@@ -498,7 +498,7 @@ WK;201.0;S009.24.49.100;E119.14.57.600;
 
 
 [FIXES]
-F;BALI.fix
+F;W.fix
 
 [VFRFIX]
 
@@ -1283,7 +1283,7 @@ L;W69;S008.09.11.000;E120.26.06.000;
 
 
 [GEO]
-F;BALI.geo
+F;W.geo
 F;waaa.geo
 F;warr.geo
 F;wadd.geo
@@ -1294,7 +1294,7 @@ F;wadl.geo
 F;watt.geo
 
 [ARTCC]
-F;BALI.artcc
+F;W.artcc
 
 
 [ARTCC HIGH]
@@ -1319,7 +1319,7 @@ F;wadd.mva
 
 
 [ATC]
-F;BALI.atc
+F;W.atc
 
 [FILLCOLOR]
 F;wadl.tfl
