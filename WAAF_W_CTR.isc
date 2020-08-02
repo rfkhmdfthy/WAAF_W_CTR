@@ -4,7 +4,7 @@ E117.20.38.000
 160	
 160
 0.0
-WAAF_W_CTR;WAAF_W_CTR\Airports;WAAF_W_CTR\Sectors
+WAAF_W_CTR\Airports;WAAF_W_CTR\Sectors;WAAF_W_CTR\GEN;
 
 [DEFINE]
 SUKET;#014f0a;
@@ -1284,14 +1284,7 @@ L;W69;S008.09.11.000;E120.26.06.000;
 
 [GEO]
 F;W.geo
-F;waaa.geo
-F;warr.geo
-F;wadd.geo
-F;wara.geo
-F;ware.geo
-F;wart.geo
-F;wadl.geo
-F;watt.geo
+
 
 [ARTCC]
 F;W.artcc
@@ -1313,9 +1306,7 @@ F;watt.lartcc
 F;wagi.lartcc
 F;wadl.lartcc
 
-[MVA]
-F;warr.mva
-F;wadd.mva
+
 
 
 [ATC]

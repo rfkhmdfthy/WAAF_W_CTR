@@ -44,6 +44,11 @@ No update will be made without valid AIP Data.
 
 Changelog:
 <br>
+08/03/2020 : Update 3.0
+- Directory Restructurization
+- MVA area & lines now visible
+- VFR route & point grouped to related aerofrome
+
 07/29/2020 : Update 2.10
 - WATT Geolines & TFL update
 - High Airways update
