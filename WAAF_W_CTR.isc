@@ -18,6 +18,7 @@ RWYMARK;#f5f5f5;
 GENTENG;#986f08;
 OUTLINE;#463304;
 RUNWAY;#505050;
+STOPBAR;%255:000:000;
 
 [Airport]
 WAAA;44;11000;S005.03.39.000;E119.33.16.000;SULTAN HASANUDDIN;
@@ -446,6 +447,7 @@ H;WATT;S010.10.11.500;E123.39.58.700;
 
 
 [VOR]
+ANY;115.200;S006.58.28.900;E110.22.48.400;
 ABD;116.100;S007.55.57.950;E112.42.47.200;
 ARP;112.100;S006.10.35.620;E120.26.20.830;
 BJW;113.500;S008.42.15.800;E121.02.49.100;
@@ -1284,6 +1286,13 @@ L;W69;S008.09.11.000;E120.26.06.000;
 
 [GEO]
 F;W.geo
+F;wadd.geo
+F;warr.geo
+F;wara.geo
+F;wadl.geo
+F;watt.geo
+F;ware.geo
+F;wart.geo
 
 
 [ARTCC]
@@ -1305,8 +1314,6 @@ F;wadd.lartcc
 F;watt.lartcc
 F;wagi.lartcc
 F;wadl.lartcc
-
-
 
 
 [ATC]
