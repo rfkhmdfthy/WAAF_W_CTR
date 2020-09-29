@@ -44,6 +44,9 @@ No update will be made without valid AIP Data.
 
 Changelog:
 <br>
+09/28/2020 : Update 3.0.1
+- Geo files updates
+
 08/03/2020 : Update 3.0
 - Directory Restructurization
 - MVA area & lines now visible
@@ -53,11 +56,9 @@ Changelog:
 - WATT Geolines & TFL update
 - High Airways update
 
-
 07/08/2020 : Update 2.0
 - Upper Bali Area integration
 - Additional Airport : WADD, WADL, WAAA, WATT
-
 
 05/29/20 : Update 1.20
 - Update for Aurora ver. 1.1.74b.
