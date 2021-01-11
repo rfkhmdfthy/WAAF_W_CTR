@@ -1326,3 +1326,11 @@ F;Airports\wadl.tfl
 F;Others\wadd.tfl
 F;Others\ctr.fcl
 F;\Others\WAAF_W.plf
+
+
+[CPDLCNAMES]
+F;Others\group.cpdlc
+
+
+[CPDLC]
+F;Others\message.cpdlc
