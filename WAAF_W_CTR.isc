@@ -4,7 +4,7 @@ E117.20.38.000
 160	
 160
 0.0
-WAAF_W_CTR\Airports;WAAF_W_CTR\Sectors;WAAF_W_CTR\GEN;
+WAAF_W_CTR
 
 [DEFINE]
 SUKET;#014f0a;
@@ -19,6 +19,8 @@ GENTENG;#986f08;
 OUTLINE;#463304;
 RUNWAY;#505050;
 STOPBAR;%255:000:000;
+BG1;%0:0:0;
+BG2;%50:50:0;
 
 [Airport]
 WAAA;44;11000;S005.03.39.000;E119.33.16.000;SULTAN HASANUDDIN;
@@ -500,7 +502,7 @@ WK;201.0;S009.24.49.100;E119.14.57.600;
 
 
 [FIXES]
-F;W.fix
+F;GEN\W.fix
 
 [VFRFIX]
 
@@ -1285,39 +1287,42 @@ L;W69;S008.09.11.000;E120.26.06.000;
 
 
 [GEO]
-F;W.geo
-F;wadd.geo
-F;warr.geo
-F;wara.geo
-F;wadl.geo
-F;watt.geo
-F;ware.geo
-F;wart.geo
+F;GEN\W.geo
+F;Airports\wadd.geo
+F;Airports\warr.geo
+F;Airports\wara.geo
+F;Airports\wadl.geo
+F;Airports\watt.geo
+F;Airports\ware.geo
+F;Airports\wart.geo
 
 
 [ARTCC]
-F;W.artcc
+F;GEN\W.artcc
 
 
 [ARTCC HIGH]
-F;waaa.hartcc
-F;warr.hartcc
-F;wadd.hartcc
-F;wagi.hartcc
-F;watt.hartcc
-F;waoo.hartcc
+F;Sectors\waaa.hartcc
+F;Sectors\warr.hartcc
+F;Sectors\wadd.hartcc
+F;Sectors\wagi.hartcc
+F;Sectors\watt.hartcc
+F;Sectors\waoo.hartcc
 
 [ARTCC LOW]
-F;waaa.lartcc
-F;warr.lartcc
-F;wadd.lartcc
-F;watt.lartcc
-F;wagi.lartcc
-F;wadl.lartcc
+F;Sectors\waaa.lartcc
+F;Sectors\warr.lartcc
+F;Sectors\wadd.lartcc
+F;Sectors\watt.lartcc
+F;Sectors\wagi.lartcc
+F;Sectors\wadl.lartcc
 
 
 [ATC]
-F;W.atc
+F;GEN\W.atc
 
 [FILLCOLOR]
-F;wadl.tfl
+F;Airports\wadl.tfl
+F;Others\wadd.tfl
+F;Others\ctr.fcl
+F;\Others\WAAF_W.plf

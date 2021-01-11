@@ -1,0 +1,33 @@
+//Visual Operation Chart
+1;C3;C3;
+1;G2;G2;
+2;C3;C3;
+2;H3;H3;
+
+//ADRIA 1
+1;Korcula;Korcula;
+1;Scedro;Scedro;
+2;Scedro;Scedro;
+2;V2;V2;
+3;V2;V2;
+3;G2;G2;
+4;G2;G2;
+4;Zirje;Zirje;
+
+//ADRIA 2
+1;G2;G2;
+1;Rogoznica;Rogoznica;
+2;Rogoznica;Rogoznica;
+2;W3;W3;
+
+//ADRIA 4
+1;Korcula;Korcula;
+1;Sucuraj;Sucuraj;
+2;Sucuraj;Sucuraj;
+2;O3;O3;
+3;O3;O3;
+3;Bisko;Bisko;
+4;Bisko;Bisko;
+4;Sinj;Sinj;
+5;Sinj;Sinj;
+5;Knin;Knin;

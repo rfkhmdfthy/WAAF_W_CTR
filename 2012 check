@@ -1,0 +1,59 @@
+***************************************
+Analysis of [Sectors\warr.hartcc]
+***************************************
+Error: Unreferenced identifier [SBR] at Line N°8
+Error: Unreferenced identifier [SBR] at Line N°125
+
+***************************************
+Analysis of [Sectors\wadd.hartcc]
+***************************************
+Error: Unreferenced identifier [BLI] at Line N°7
+
+***************************************
+Analysis of [Sectors\wagi.hartcc]
+***************************************
+Error: Invalid latitude field [S001.34.10] at Line N°2
+Error: Invalid longitude field [E112.18.55] at Line N°2
+
+***************************************
+Analysis of [Sectors\watt.hartcc]
+***************************************
+Error: Wrong number of fields or missing end semicolon at Line N°2
+
+***************************************
+Analysis of [Sectors\waoo.hartcc]
+***************************************
+Error: Invalid latitude field [S002.18.55] at Line N°1
+Error: Invalid longitude field [E114.59.14] at Line N°1
+
+***************************************
+Analysis of [Sectors\wadl.lartcc]
+***************************************
+Error: Invalid latitude field [S008.21.50] at Line N°2
+Error: Invalid longitude field [E116.07.08] at Line N°2
+Error: Invalid latitude field [S008.38.20] at Line N°208
+Error: Invalid longitude field [E116.18.40] at Line N°208
+
+*****************************
+Analysis of [GEN\W.atc]
+*****************************
+Error: Wrong number of fields or missing end semicolon at Line N°38
+Error: Wrong number of fields or missing end semicolon at Line N°40
+Warning: Invalid COM frequency at Line N°55
+
+*****************************
+Analysis of [GEN\W.fix]
+*****************************
+Warning: BADOK: Lat/Long disagreement [AIRAC: N050.14.01.000 E021.40.31.000] at Line N°23
+Warning: LEBAN: Lat/Long disagreement [AIRAC: N027.06.48.730 W080.01.27.330] at Line N°50
+Warning: MA128: Unknown FIX in AIRAC database at Line N°52
+Warning: KANIP: Lat/Long disagreement [AIRAC: N024.10.40.000 E055.20.42.000] at Line N°82
+Warning: NABAT: Lat/Long disagreement [AIRAC: S016.33.31.000 E179.05.25.000] at Line N°85
+Warning: RINTO: Lat/Long disagreement [AIRAC: N014.23.14.000 E080.03.18.000] at Line N°87
+Warning: KANIP: Lat/Long disagreement [AIRAC: N024.10.40.000 E055.20.42.000] at Line N°91
+Warning: BUGEL: Lat/Long disagreement [AIRAC: N038.45.00.600 W079.44.07.310] at Line N°202
+Warning: EMASA: Lat/Long disagreement [AIRAC: N016.00.00.000 W080.47.16.000] at Line N°203
+Warning: KARAN: Unknown FIX in AIRAC database at Line N°205
+Warning: BANDB: Lat/Long disagreement [AIRAC: S008.29.00.000 E126.23.42.000] at Line N°213
+Warning: OVINA: Unknown FIX in AIRAC database at Line N°367
+Warning: TABIS: Lat/Long disagreement [AIRAC: N052.00.32.000 E000.26.44.000] at Line N°405
