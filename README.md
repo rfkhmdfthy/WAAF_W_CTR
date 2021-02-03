@@ -27,7 +27,7 @@ For any procedural discrepancies, please refer to IVAO Indonesia Divisional proc
 
 
 
-THIS SECTORFILES CAN ONLY TO BE USED IN IVAO ATC SIMULATION.
+THIS SECTORFILES CAN ONLY BE USED IN IVAO ATC SIMULATION.
 
 
 INSTALLATION :
@@ -44,13 +44,18 @@ No update will be made without valid AIP Data.
 
 Changelog:
 <br>
+02/03/2021 : Update 3.0.1.1
+- WARR Terminal Procedures Update to AIRAC 2101
+- WATT Terminal Procedures Addition
+- CPDLC Syntax Implementation (Aurora 1.2.6b)
+
 09/28/2020 : Update 3.0.1
 - Geo files updates
 
 08/03/2020 : Update 3.0
 - Directory Restructurization
 - MVA area & lines now visible
-- VFR route & point grouped to related aerofrome
+- VFR route & point grouped to related aerodrome
 
 07/29/2020 : Update 2.10
 - WATT Geolines & TFL update

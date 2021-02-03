@@ -32,6 +32,7 @@ WADD_APP;119.700;//Bali Director (BALI CTR)
 WADD_TWR;118.1;//Ngurah Tower
 WADD_TWR;118.5;//Ngurah Tower
 WADD_GND;118.8;//Ngurah Ground
+WADD_DEL;121.850;//Ngurah Del
 
 //WADL
 WADL_APP;118.55;//Lombok Approach
