@@ -4,7 +4,7 @@ E117.20.38.000
 160	
 160
 0.0
-WAAF_W_CTR
+WAAF_W_CTR;WAAF_W_CTR\Airports;WAAF_W_CTR\Others;
 
 [DEFINE]
 SUKET;#014f0a;
@@ -1323,14 +1323,14 @@ F;GEN\W.atc
 
 [FILLCOLOR]
 F;Airports\wadl.tfl
-F;Others\wadd.tfl
+F;Airports\wadd.tfl
 F;Others\ctr.fcl
-F;\Others\WAAF_W.plf
+F;Others\WAAF_W.plf
+F;Others\wadd_twr.tfl
 
 
 [CPDLCNAMES]
 F;Others\group.cpdlc
-
 
 [CPDLC]
 F;Others\message.cpdlc
