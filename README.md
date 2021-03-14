@@ -44,6 +44,10 @@ No update will be made without valid AIP Data.
 
 Changelog:
 <br>
+03/14/2021 : Update 3.0.1.2
+- WATT Terminal Procedure Update to AIRAC 2102
+- Unused Fixes clean up
+
 02/03/2021 : Update 3.0.1.1
 - WARR Terminal Procedures Update to AIRAC 2101
 - WATT Terminal Procedures Addition
