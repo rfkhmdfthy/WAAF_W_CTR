@@ -1,0 +1,13 @@
+// LABEL : FIELDS ICAO;RWYS;ID;LAT;LON;    // RUNWAYS SEPARATED BY :
+// TRACK : FIELDS LAT;LON;
+
+//---------------------//
+//------RWY 21---------//
+//---------------------//
+
+//SID RWY21
+LESU;21;REBUL1Z;REBUL;REBUL;
+N042.20.08.069;E001.24.18.148;
+SU500;SU500;
+SU502;SU502;
+REBUL;REBUL;

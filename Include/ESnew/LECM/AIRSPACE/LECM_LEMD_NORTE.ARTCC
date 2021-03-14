@@ -1,0 +1,35 @@
+//-----------------------------
+//------LEMD CONFIG NORTE------
+//-----------------------------
+
+//MADRID TMA SECTOR OESTE
+T;Madrid TMA sector oeste (W);N041.30.02.400;W003.16.06.500;
+T;Madrid TMA sector oeste (W);N041.29.59.600;W004.12.14.400;
+T;Madrid TMA sector oeste (W);N041.10.29.400;W004.36.39.400;
+T;Madrid TMA sector oeste (W);N040.08.58.300;W004.36.39.470;
+T;Madrid TMA sector oeste (W);N039.56.20.400;W004.36.39.500;
+T;Madrid TMA sector oeste (W);N039.33.10.300;W004.08.04.500;
+T;Madrid TMA sector oeste (W);N039.35.04.500;W003.06.28.300;
+T;Madrid TMA sector oeste (W);N040.15.59.700;W003.20.38.300;
+T;Madrid TMA sector oeste (W);N040.29.22.400;W003.34.01.400;
+T;Madrid TMA sector oeste (W);N041.30.02.400;W003.16.06.500;
+
+//MADRID TMA SOUTH/ LEMD_WS_APP SOUTH
+T;Madrid TMA sector este (E);N040.29.22.400;W003.34.01.400;
+T;Madrid TMA sector este (E);N040.29.22.400;W003.34.01.400;
+T;Madrid TMA sector este (E);N041.30.02.400;W003.16.06.500;
+T;Madrid TMA sector este (E);N041.30.05.400;W002.22.08.500;
+T;Madrid TMA sector este (E);N041.18.00.400;W002.30.00.400;
+T;Madrid TMA sector este (E);N041.01.59.400;W002.30.00.400;
+T;Madrid TMA sector este (E);N041.02.03.400;W002.09.30.500;
+T;Madrid TMA sector este (E);N040.43.03.400;W002.09.30.480;
+T;Madrid TMA sector este (E);N040.05.20.500;W002.09.30.400;
+T;Madrid TMA sector este (E);N040.00.00.500;W002.17.40.500;
+T;Madrid TMA sector este (E);N040.00.00.000;W002.17.40.000;
+T;Madrid TMA sector este (E);N040.00.00.000;W002.22.00.000;
+T;Madrid TMA sector este (E);N039.53.21.000;W002.27.48.000;
+T;Madrid TMA sector este (E);N039.35.25.600;W002.55.05.500;
+T;Madrid TMA sector este (E);N039.35.23.500;W002.55.59.400;
+T;Madrid TMA sector este (E);N039.35.04.500;W003.06.28.300;
+T;Madrid TMA sector este (E);N040.15.59.700;W003.20.38.300;
+T;Madrid TMA sector este (E);N040.29.22.400;W003.34.01.400;

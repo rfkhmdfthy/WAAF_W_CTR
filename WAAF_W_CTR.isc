@@ -1,5 +1,6 @@
-//UPDATE 3.0.1.1
-//AIRAC VERSION : 2101
+//UPDATE 3.0.1.2
+//AIRAC VERSION : 2102
+//AIP AMDT NR 101 YEAR 2021
 
 [INFO]
 S006.38.15.000
@@ -463,6 +464,7 @@ LBJ;112.600;S008.28.53.240;E119.53.05.230;
 LMB;116.000;S008.46.20.430;E116.17.38.630;
 MAK;110.000;S005.03.08.580;E119.34.01.330;
 MKS;114.700;S005.02.16.120;E119.31.34.280;
+MOF;114.500;S008.38.27.900;E122.14.22.700;
 MTM;114.500;S008.33.37.850;E116.04.30.530;
 NDE;112.900;S008.50.52.210;E121.39.55.950;
 NMA;115.100;S008.32.02.920;E118.41.29.640;
@@ -1318,15 +1320,15 @@ F;Sectors\warr.lartcc
 F;Sectors\wadd.lartcc
 F;Sectors\watt.lartcc
 F;Sectors\wagi.lartcc
+F;Sectors\wahq.lartcc
 F;Sectors\wadl.lartcc
+F;Sectors\wady.lartcc
 
 
 [ATC]
 F;GEN\W.atc
 
 [FILLCOLOR]
-F;Airports\wadl.tfl
-F;Airports\wadd.tfl
 F;Others\ctr.fcl
 F;Others\WAAF_W.plf
 F;Others\wadd_twr.tfl

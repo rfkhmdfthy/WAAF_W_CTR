@@ -1,0 +1,28 @@
+//Defined color for sec file which can't be done in PVD->COLORS
+
+//COOPANS radar
+
+//airport tfl color
+AIRPORT APRONS;%120:120:120;
+GRASS;%075:104:075;
+RUNWAYS;%050:050:050;
+RWY MARKS;%255:255:255;
+//RWY CTRLINE;%255:255:255;
+
+//airport geo color
+PARKING GA;%255:255:100;
+PARKING MEDIUM;%255:255:100;
+PARKING HEAVY;%0:0:255;
+
+//area colors
+SECSI FRA AREA;%000:170:080;
+
+//military colors
+//TRA/TSA AREA;%215:110:170;
+//LOW LEVEL CORRIDORS;%215:110:170;
+//NATO AREA;%255:210:90;
+MILITARY BASE;%240:160:0;
+
+//geo color
+HRVATSKA;%050:050:050;
+NEIGHBORS;%050:050:050;
