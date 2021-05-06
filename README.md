@@ -15,11 +15,11 @@ Enroute Controller :
 - Upper Nusa Tenggara
 
 TMA & Aerodrome :
-- WARR
-- WARA
-- WADD
-- WADL
-- WATT
+- WARR Junda
+- WARA Abdul Rahman Saleh
+- WADD Ngurah Rai
+- WADL LOmbok Praya
+- WATT El Tari
 
 Radar Display Optimized to 1366 x 768 pixel screen resolution.
 
@@ -43,6 +43,12 @@ No update will be made without valid AIP Data.
 
 
 Changelog:
+<br>
+05/6/2021 : Update 3.0.2.0
+- WARR Terminal Procedure Update to Airac 2104
+- WADD Taxiway Label Update
+- WATT Parking Stands Update
+
 <br>
 03/14/2021 : Update 3.0.1.2
 - WATT Terminal Procedure Update to AIRAC 2102
