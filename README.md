@@ -18,7 +18,7 @@ TMA & Aerodrome :
 - WARR Junda
 - WARA Abdul Rahman Saleh
 - WADD Ngurah Rai
-- WADL LOmbok Praya
+- WADL Lombok Praya
 - WATT El Tari
 
 Radar Display Optimized to 1366 x 768 pixel screen resolution.
