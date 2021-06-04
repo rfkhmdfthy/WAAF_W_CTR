@@ -44,6 +44,14 @@ No update will be made without valid AIP Data.
 
 Changelog:
 <br>
+05/25/2021 : Update 3.0.3.0
+- WADL Parking Stands
+- WAHQ Parking Stands
+
+
+
+
+<br>
 05/6/2021 : Update 3.0.2.0
 - WARR Terminal Procedure Update to Airac 2104
 - WADD Taxiway Label Update
