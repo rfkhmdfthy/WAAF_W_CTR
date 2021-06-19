@@ -44,11 +44,13 @@ No update will be made without valid AIP Data.
 
 Changelog:
 <br>
+06/19/2021 : Update 3.0.3.1
+- Fixes renaming (AMDT 102)
+
+<br>
 05/25/2021 : Update 3.0.3.0
 - WADL Parking Stands
 - WAHQ Parking Stands
-
-
 
 
 <br>
