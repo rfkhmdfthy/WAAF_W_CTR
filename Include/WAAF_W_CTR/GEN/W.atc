@@ -6,18 +6,18 @@ WAAF_MKS_CTR;133.800; //Ujung Control
 WAAF_SBY_CTR;123.900; //Ujung Control
 
 //WARR
-WARR_E_APP;122.850; //Surabaya Approach TMA EAST
-WARR_E_APP;124.000; //Surabaya Approach 
-WARR_W_APP;125.100; //Surabaya Approach TMA WEST
-WARR_W_APP;123.550; //Surabaya Approach
-WARR_APP;123.200; //Surabaya Approach
-WARR_D_APP;123.200; //Surabaya Director
-WARR_D_APP;124.500; //Surabaya Director
-WARR_TWR;118.300; //Juanda Tower
-WARR_TWR;118.100; //Juanda Tower
-WARR_GND;118.900; //Juanda Ground
-WARR_GND;119.150; //Juanda Ground
-WARR_DEL;121.650; //Juanda Delivery
+//WARR_E_APP;122.850; //Surabaya Approach TMA EAST;
+WARR_E_APP;124.000; //Surabaya Approach TMA EAST;
+WARR_W_APP;125.100; //Surabaya Approach TMA WEST;
+//WARR_W_APP;123.550; //Surabaya Approach TMA WEST;
+WARR_APP;124.000; //Surabaya Approach;
+WARR_D_APP;123.200; //Surabaya Director;
+//WARR_D_APP;124.500; //Surabaya Director;
+WARR_TWR;118.300; //Juanda Tower;
+//WARR_TWR;118.100; //Juanda Tower;
+WARR_GND;118.900; //Juanda Ground;
+//WARR_GND;119.150; //Juanda Ground;
+WARR_DEL;121.650; //Juanda Delivery;
 
 //WARA
 WARA_TWR;122.500; //Abdulrahman Tower
@@ -54,3 +54,4 @@ WATT_APP;125.250; //Kupang Approach
 WATT_TWR;118.300; //El Tari Tower
 
 WAAF_YS_OBS;199.999; OBS
+WAAF-CH;199.999; Staff Only

@@ -46,6 +46,7 @@ Changelog:
 <br>
 06/19/2021 : Update 3.0.3.1
 - Fixes renaming (AMDT 102)
+- Special Area removed as it will be using IVAO server feed.
 
 <br>
 05/25/2021 : Update 3.0.3.0
