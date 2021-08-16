@@ -1,0 +1,52 @@
+[INFO]
+N001.21.33.160
+E103.59.21.570
+60.107
+59.958
+0.000
+WSJC
+
+[Airport]
+F;WSJC.apt
+
+[Runway]
+F;WSJC.rwy
+
+[VOR]
+F;WSJC.vor
+
+[NDB]
+F;WSJC.ndb
+
+[FIXES]
+F;WSJC.fix
+
+[LOW AIRWAY]
+F;WSJC.lairway
+
+[HIGH AIRWAY]
+F;WSJC.hairway
+
+[GEO]
+F;WSJC.geo
+
+[AIRSPACE]
+F;WSJC.artcc
+
+[ARTCC HIGH]
+F;WSJC.hartcc
+
+[ARTCC LOW]
+F;WSJC.lartcc
+
+[VFRFIX]
+
+[FILLCOLOR]
+F;WSJCTRLPOSITION.TFL
+
+
+[ATC]
+F;WSJC.ATC
+
+
+//COPYRIGHT BY SYAHRUL ADI VID 462395 MY DIVISION
