@@ -10,10 +10,10 @@ WAAF_SBY_CTR;123.900; //Ujung Control
 WARR_E_APP;124.000; //Surabaya Approach TMA EAST;
 WARR_W_APP;125.100; //Surabaya Approach TMA WEST;
 //WARR_W_APP;123.550; //Surabaya Approach TMA WEST;
-WARR_APP;124.000; //Surabaya Approach;
+WARR_APP;123.200; //Surabaya Approach;
 WARR_D_APP;123.200; //Surabaya Director;
 //WARR_D_APP;124.500; //Surabaya Director;
-WARR_TWR;118.300; //Juanda Tower;
+WARR_TWR;118.300;WARR;//Juanda Tower;
 //WARR_TWR;118.100; //Juanda Tower;
 WARR_GND;118.900; //Juanda Ground;
 //WARR_GND;119.150; //Juanda Ground;
@@ -26,19 +26,22 @@ WARA_TWR;122.500; //Abdulrahman Tower
 WART_TWR;118.650; //Trunojoyo Tower
 
 //WADD
-WADD_E_APP;119.900; //Bali Radar (TMA East) 
-WADD_W_APP;119.300; //Bali Radar (TMA West)
-WADD_APP;119.700;//Bali Director (BALI CTR)
-WADD_TWR;118.1;//Ngurah Tower
-WADD_TWR;118.5;//Ngurah Tower
-WADD_GND;118.8;//Ngurah Ground
-WADD_DEL;121.850;//Ngurah Del
+WADD_E_APP;119.900;WADD; //Bali Radar (TMA East) 
+WADD_W_APP;119.300;WADD; //Bali Radar (TMA West)
+WADD_APP;119.700;WADD;//Bali Director (BALI CTR)
+WADD_TWR;118.1;WADD;//Ngurah Tower
+WADD_TWR;118.5;WADD;//Ngurah Tower
+WADD_GND;118.8;WADD;//Ngurah Ground
+WADD_DEL;121.850;WADD;//Ngurah Del
 
 //WADL
 WADL_APP;118.55;//Lombok Approach
 WADL_APP:118.95;//Lombok Approach
 WADL_TWR;118.55;//Lombok Tower
 WADL_TWR:118.95;//Lombok Tower
+
+//WADY
+WADY_TWR;118.35;//Banyuwangi Tower
 
 //WAAA
 WAAA_APP;127.500; //Ujung Pandang Approach (TMA)
