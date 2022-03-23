@@ -15,6 +15,7 @@ Enroute Controller :
 - Upper Nusa Tenggara
 
 TMA & Aerodrome :
+- WAHQ Adi Soemarmo
 - WARR Junda
 - WARA Abdul Rahman Saleh
 - WADD Ngurah Rai
@@ -43,6 +44,15 @@ No update will be made without valid AIP Data.
 
 
 Changelog:
+<br>
+08/17/2021 : Update 3.1.0.0
+- Update as per AIRAC2108
+- Data format update as per latest Definition
+- WAHQ added
+- WARR, WADD, WADL Procedures Update
+- H & L Airways Update
+- Unused fix cleanup
+
 <br>
 06/19/2021 : Update 3.0.3.1
 - Fixes renaming (AMDT 102)
