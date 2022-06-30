@@ -45,6 +45,16 @@ No update will be made without valid AIP Data.
 
 Changelog:
 <br>
+06/18/2022 : Update 3.2.1.0
+- Update as per AIRAC2206
+
+<br>
+04/24/2022 : Update 3.2.0.0
+- Update as per AIRAC2204
+- Data format update as per latest Definition
+- WART Updates : Stands, Instrument Procedures
+
+<br>
 08/17/2021 : Update 3.1.0.0
 - Update as per AIRAC2108
 - Data format update as per latest Definition
@@ -62,7 +72,6 @@ Changelog:
 05/25/2021 : Update 3.0.3.0
 - WADL Parking Stands
 - WAHQ Parking Stands
-
 
 <br>
 05/6/2021 : Update 3.0.2.0
